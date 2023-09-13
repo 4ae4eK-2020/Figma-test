@@ -1,0 +1,64 @@
+.worksheet {
+    margin-top: 51px;
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 45px;
+}
+
+.background {
+    width: 876px;
+    height: 682px;
+    border-radius: 50px;
+    background: #D8C092;
+    margin: 0 auto;
+    padding: 68px 95px;
+    padding-bottom: 52px;
+}
+
+.form-label {
+    color: #000;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 100%;
+}
+
+.form-input {
+    padding: 12px 0 12px 18px;
+    background: #555155;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 100%;
+}
+
+.form-block {
+    margin: 34px auto;
+}
+
+.submit {
+    width: 483px;
+    height: 87px;
+    border-radius: 50px;
+    background: #E15252;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border: 0;
+    margin-top: 71px;
+}
